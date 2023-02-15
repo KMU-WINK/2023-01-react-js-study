@@ -27,14 +27,16 @@ export default function Week2() {
   // 아래 미리 작성된 useEffect 함수를 참고하여 정상적으로 남은 시간이 돌아가도록 작성하시오.
   useEffect(() => {
     timer.current = setInterval(() => {
+      setTime(time-1)
       console.log('1초마다 실행');
     }, 1000);
 
     return () => clearInterval(timer.current);
-  }, [])
+  }, [time])
 
   useEffect(() => {
     // time이 변할 때 마다 실행됨.
+    console.log('time 이 변함')
   }, [time]);
 
   const handleRegister = (e) => {
@@ -64,7 +66,17 @@ export default function Week2() {
             <td>시간</td>
             <td>신청하기</td>
           </tr>
-          {/* map 함수를 이용하여 timetable에 담긴 과목이 아래 예시와 같은 수강신청 화면으로 렌더링되게 하시오. */}
+          {/* map 함수를 이용하여 timetable에 담긴 과목이 아래 예시와 같은 수강신청 화면으로 렌더링되게 하시오. */
+          timetable.map((name) => {
+            return(
+              <tr>
+               <td>{name.title}</td>
+               <td>{name.professor}</td>
+               <td>{name.time}</td>
+               <td><button name="index" onClick={handleRegister}>신청</button></td>
+              </tr>
+            );
+          })}
           {/* <tr> 태그에 key 값으로는 과목 내용에서 name으로 설정하시오. */}
           <tr>
             <td>알고리즘</td>
