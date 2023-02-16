@@ -45,7 +45,7 @@ export default function Week2() {
       alert('아직 수강신청 시간이 되지 않았습니다.');
       return;
     }
-    alert(e+' 과목은 수강인원이 초과되었습니다.');
+    alert(e.target.name+' 과목은 수강인원이 초과되었습니다.');
     
     // e.target.name을 이용하여 alert 함수를 이용해 "(과목명) 수강신청에 성공하였습니다!" 가 출력되도록 하시오.
     // if (e.target.name === 'index') { // 단, 다음 코드처럼 if-else 구문으로 처리하지 마시오. (관련없는 예시 코드입니다.)
@@ -53,9 +53,6 @@ export default function Week2() {
     //   alert('알고리즘 과목은 수강인원이 초과되었습니다.');
     //   return;
     // }
-    // 이 아랫줄에 해당 코드를 작성하세요.
-
-    
   }
 
   return (
@@ -78,7 +75,7 @@ export default function Week2() {
                 <td>{subject.title}</td>
                 <td>{subject.professor}</td>
                 <td>{subject.time}</td>
-                <td><button onClick={(e)=>handleRegister(subject.title)}>신청</button></td>
+                <td><button name={subject.title} onClick={handleRegister}>신청</button></td>
                 </tr>
               ))}
           {/* Hint! { timetable.map(subject => <tr key={subject.name}> ... */}
