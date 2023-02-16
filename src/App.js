@@ -1,6 +1,7 @@
 import styled from 'styled-components';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Week1 from './pages/Week1';
+import Week2 from './pages/Week2';
 
 const Header = styled.div`
   display: flex;
@@ -32,11 +33,12 @@ function App() {
     <BrowserRouter>
       <Header>
         <Link href="/week-1">1주차</Link>
-        <Link>2주차</Link>
+        <Link href="/week-2">2주차</Link>
         <Link>3주차</Link>
       </Header>
       <Routes>
         <Route path="/week-1" element={<Week1 />} />
+        <Route path="/week-2" element={<Week2 />} />
       </Routes>
     </BrowserRouter>
   );
