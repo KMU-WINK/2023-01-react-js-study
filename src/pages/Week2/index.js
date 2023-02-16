@@ -44,9 +44,8 @@ export default function Week2() {
     if (time > 0) {
       alert('아직 수강신청 시간이 되지 않았습니다.');
       return;
-    }else{
-      alert(e+' 과목은 수강인원이 초과되었습니다.');
     }
+    alert(e+' 과목은 수강인원이 초과되었습니다.');
     
     // e.target.name을 이용하여 alert 함수를 이용해 "(과목명) 수강신청에 성공하였습니다!" 가 출력되도록 하시오.
     // if (e.target.name === 'index') { // 단, 다음 코드처럼 if-else 구문으로 처리하지 마시오. (관련없는 예시 코드입니다.)
