@@ -40,17 +40,19 @@ export default function Week2() {
   }, [time]);
 
   const handleRegister = (e) => {
+
     if (time > 0) {
       alert('아직 수강신청 시간이 되지 않았습니다.');
       return;
     }
-    // e.target.name을 이용하여 alert 함수를 이용해 "(과목명) 수강신청에 성공하였습니다!" 가 출력되도록 하시오.
-    if (e.target.name === 'index') { // 단, 다음 코드처럼 if-else 구문으로 처리하지 마시오. (관련없는 예시 코드입니다.)
-      // e.target.name === '0' 과 같은 코드로 제출하시면 혼냅니다...
-      alert('알고리즘 과목은 수강인원이 초과되었습니다.');
-      return;
-    }
-    // 이 아랫줄에 해당 코드를 작성하세요.
+    // // e.target.name을 이용하여 alert 함수를 이용해 "(과목명) 수강신청에 성공하였습니다!" 가 출력되도록 하시오.
+    // if (e.target.name === 'index') { // 단, 다음 코드처럼 if-else 구문으로 처리하지 마시오. (관련없는 예시 코드입니다.)
+    //   // e.target.name === '0' 과 같은 코드로 제출하시면 혼냅니다...
+    //   alert('알고리즘 과목은 수강인원이 초과되었습니다.');
+    //   return;
+    // }
+    // // 이 아랫줄에 해당 코드를 작성하세요.
+    alert(e.target.name +" 수강 신청에 성공하였습니다!")
   }
 
   return (
@@ -67,16 +69,13 @@ export default function Week2() {
             <td>신청하기</td>
           </tr>
           {/* map 함수를 이용하여 timetable에 담긴 과목이 아래 예시와 같은 수강신청 화면으로 렌더링되게 하시오. */
-          timetable.map((name) => {
-            return(
-              <tr>
-               <td>{name.title}</td>
-               <td>{name.professor}</td>
-               <td>{name.time}</td>
-               <td><button name="index" onClick={handleRegister}>신청</button></td>
-              </tr>
-            );
-          })}
+          timetable.map(subject => <tr key = {subject.name}>
+              <td>{subject.title}</td>
+              <td>{subject.professor}</td>
+              <td>{subject.time}</td>
+              <td><button name="name" onClick={handleRegister}>신청</button></td>
+            </tr>
+          )}
           {/* <tr> 태그에 key 값으로는 과목 내용에서 name으로 설정하시오. */}
           <tr>
             <td>알고리즘</td>
