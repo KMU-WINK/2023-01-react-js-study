@@ -1,0 +1,38 @@
+@mixin page-theme($theme-color, $invert-color, $theme-filter, $invert-filter) {
+    &.page {
+        position: fixed;
+        top: 0;
+        display: flex;
+        width: 100vw;
+        height: 100vh;
+        background-color: $theme-color;
+        transition: background-color 1s;
+    }
+
+    .brandIcon {
+        display: block;
+        margin: auto;
+        height: 20px;
+        filter: $invert-filter;
+        transition: filter 1s;
+    }
+    
+    .textArea {
+        margin: auto;
+        color: $invert-color;
+        font-size: 30pt;
+        font-weight: bold;
+        span {
+            display: inline-block;
+            transition: all 1s;
+        }
+    }
+}
+
+.whiteTheme {
+    @include page-theme(#ffffff, #3a70ff, brightness(0) invert(1), unset);
+}
+
+.blueTheme {
+    @include page-theme(#3a70ff, #ffffff, unset, brightness(0) invert(1));
+}

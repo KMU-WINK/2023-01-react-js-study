@@ -1,0 +1,29 @@
+.progressBar {
+    position: relative;
+    height: 0.5rem;
+    border-radius: 1rem;
+    overflow: hidden;
+}
+
+.progressBarProgress {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 0%;
+    border-radius: 1rem;
+    &.animate {
+        width: 50%;
+        animation-duration: 2s;
+        animation-iteration-count: infinite;
+        animation-name: progressAnimation;
+    }
+}
+
+@keyframes progressAnimation {
+    from {
+        left: -50%;
+    }
+    to {
+        left: 100%;
+    }
+}

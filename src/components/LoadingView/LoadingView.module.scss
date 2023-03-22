@@ -1,0 +1,38 @@
+.errorView {
+    margin-top: 20px;
+
+    svg {
+        display: block;
+        margin: auto;
+        width: 40px;
+        height: 40px;
+        fill: #ff6060;
+    }
+
+    span {
+        display: block;
+        margin: 10px auto 20px auto;
+        color: #ff6060;
+        font-size: 14pt;
+        font-weight: bold;
+    }
+
+    button {
+        display: block;
+        margin: auto;
+        padding: 10px 30px;
+        color: #ffffff;
+        background-color: #3a70ff;
+        border: none;
+        border-radius: 10px;
+        font-size: 12pt;
+        font-weight: bold;
+        cursor: pointer;
+        &:hover {
+            background-color: darken(#3a70ff, 10%);
+        }
+        &:active {
+            background-color: darken(#3a70ff, 20%);
+        }
+    }
+}

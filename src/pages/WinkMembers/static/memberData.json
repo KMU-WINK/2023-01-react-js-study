@@ -1,0 +1,652 @@
+[
+    {
+        "displayName": "최지원",
+        "description": "척척고졸 개발자",
+        "profileImageURL": "https://wink.kookmin.ac.kr/_next/image?url=https%3A%2F%2Fgithub.com%2FChoi-Jiwon-38.png&w=256&q=75",
+        "externalLinks": [
+            {
+                "displayName": "GitHub",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/github.png",
+                "hrefURL": "https://github.com/Choi-Jiwon-38",
+                "themeColor": "#000000"
+            },
+            {
+                "displayName": "Instagram",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/instagram.png",
+                "hrefURL": "https://www.instagram.com/aid_choi",
+                "themeColor": "#e1306c"
+            },
+            {
+                "displayName": "Blog",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/tistory.png",
+                "hrefURL": "https://what-time.tistory.com/",
+                "themeColor": "#f77737"
+            }
+        ]
+    },
+    {
+        "displayName": "장수미",
+        "description": "WINK 디자이너",
+        "profileImageURL": "https://wink.kookmin.ac.kr/_next/image?url=https%3A%2F%2Fgithub.com%2Fjangsumi.png&w=256&q=75",
+        "externalLinks": [
+            {
+                "displayName": "GitHub",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/github.png",
+                "hrefURL": "https://github.com/jangsumi",
+                "themeColor": "#000000"
+            },
+            {
+                "displayName": "Instagram",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/instagram.png",
+                "hrefURL": null,
+                "themeColor": "#e1306c"
+            },
+            {
+                "displayName": "Blog",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/tistory.png",
+                "hrefURL": null,
+                "themeColor": "#f77737"
+            }
+        ]
+    },
+    {
+        "displayName": "박정명",
+        "description": "WINK 대장",
+        "profileImageURL": "https://wink.kookmin.ac.kr/_next/image?url=https%3A%2F%2Fgithub.com%2Fj-myeong.png&w=256&q=75",
+        "externalLinks": [
+            {
+                "displayName": "GitHub",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/github.png",
+                "hrefURL": "https://github.com/j-myeong",
+                "themeColor": "#000000"
+            },
+            {
+                "displayName": "Instagram",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/instagram.png",
+                "hrefURL": "https://www.instagram.com/j.myeong_",
+                "themeColor": "#e1306c"
+            },
+            {
+                "displayName": "Blog",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/tistory.png",
+                "hrefURL": null,
+                "themeColor": "#f77737"
+            }
+        ]
+    },
+    {
+        "displayName": "하준혁",
+        "description": "CODE. COFFEE. CODE.",
+        "profileImageURL": "https://wink.kookmin.ac.kr/_next/image?url=https%3A%2F%2Fgithub.com%2Fsirldev.png&w=256&q=75",
+        "externalLinks": [
+            {
+                "displayName": "GitHub",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/github.png",
+                "hrefURL": "https://github.com/sirldev",
+                "themeColor": "#000000"
+            },
+            {
+                "displayName": "Instagram",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/instagram.png",
+                "hrefURL": "https://www.instagram.com/si._.rl",
+                "themeColor": "#e1306c"
+            },
+            {
+                "displayName": "Blog",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/tistory.png",
+                "hrefURL": "https://velog.io/@sirl",
+                "themeColor": "#f77737"
+            }
+        ]
+    },
+    {
+        "displayName": "김지성",
+        "description": "무려 8대 회장",
+        "profileImageURL": "https://wink.kookmin.ac.kr/_next/image?url=https%3A%2F%2Fgithub.com%2FJisuuungKim.png&w=256&q=75",
+        "externalLinks": [
+            {
+                "displayName": "GitHub",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/github.png",
+                "hrefURL": "https://github.com/JisuuungKim",
+                "themeColor": "#000000"
+            },
+            {
+                "displayName": "Instagram",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/instagram.png",
+                "hrefURL": "https://www.instagram.com/z_is_2",
+                "themeColor": "#e1306c"
+            },
+            {
+                "displayName": "Blog",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/tistory.png",
+                "hrefURL": null,
+                "themeColor": "#f77737"
+            }
+        ]
+    },
+    {
+        "displayName": "홍승현",
+        "description": "Developer가 아님",
+        "profileImageURL": "https://wink.kookmin.ac.kr/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fprofile.3cea3de4.png&w=256&q=75",
+        "externalLinks": [
+            {
+                "displayName": "GitHub",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/github.png",
+                "hrefURL": "https://github.com/superh0ng",
+                "themeColor": "#000000"
+            },
+            {
+                "displayName": "Instagram",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/instagram.png",
+                "hrefURL": "https://www.instagram.com/superh0ng_",
+                "themeColor": "#e1306c"
+            },
+            {
+                "displayName": "Blog",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/tistory.png",
+                "hrefURL": null,
+                "themeColor": "#f77737"
+            }
+        ]
+    },
+    {
+        "displayName": "성정규",
+        "description": "소융대 부회장",
+        "profileImageURL": "https://wink.kookmin.ac.kr/_next/image?url=https%3A%2F%2Fgithub.com%2Fseongjeongkyu1.png&w=256&q=75",
+        "externalLinks": [
+            {
+                "displayName": "GitHub",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/github.png",
+                "hrefURL": "https://github.com/seongjeongkyu1",
+                "themeColor": "#000000"
+            },
+            {
+                "displayName": "Instagram",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/instagram.png",
+                "hrefURL": "https://www.instagram.com/sj_k.23/",
+                "themeColor": "#e1306c"
+            },
+            {
+                "displayName": "Blog",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/tistory.png",
+                "hrefURL": "https://sjkdev.tistory.com/",
+                "themeColor": "#f77737"
+            }
+        ]
+    },
+    {
+        "displayName": "임혜진",
+        "description": "imagine",
+        "profileImageURL": "https://wink.kookmin.ac.kr/_next/image?url=https%3A%2F%2Fgithub.com%2Fima9ine4.png&w=256&q=75",
+        "externalLinks": [
+            {
+                "displayName": "GitHub",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/github.png",
+                "hrefURL": "https://github.com/ima9ine4",
+                "themeColor": "#000000"
+            },
+            {
+                "displayName": "Instagram",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/instagram.png",
+                "hrefURL": "https://www.instagram.com/ima9ine4",
+                "themeColor": "#e1306c"
+            },
+            {
+                "displayName": "Blog",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/tistory.png",
+                "hrefURL": null,
+                "themeColor": "#f77737"
+            }
+        ]
+    },
+    {
+        "displayName": "이수혁",
+        "description": "생초보 프로그래밍 꿈나무",
+        "profileImageURL": "https://wink.kookmin.ac.kr/_next/image?url=https%3A%2F%2Fgithub.com%2Fcg10036.png&w=256&q=75",
+        "externalLinks": [
+            {
+                "displayName": "GitHub",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/github.png",
+                "hrefURL": "https://github.com/cg10036",
+                "themeColor": "#000000"
+            },
+            {
+                "displayName": "Instagram",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/instagram.png",
+                "hrefURL": "https://www.instagram.com/cg10036",
+                "themeColor": "#e1306c"
+            },
+            {
+                "displayName": "Blog",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/tistory.png",
+                "hrefURL": "https://cg10036.tistory.com/",
+                "themeColor": "#f77737"
+            }
+        ]
+    },
+    {
+        "displayName": "이지원",
+        "description": "20학번 웹뉴비",
+        "profileImageURL": "https://wink.kookmin.ac.kr/_next/image?url=https%3A%2F%2Fgithub.com%2Feasyandones.png&w=256&q=75",
+        "externalLinks": [
+            {
+                "displayName": "GitHub",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/github.png",
+                "hrefURL": "https://github.com/easyandones",
+                "themeColor": "#000000"
+            },
+            {
+                "displayName": "Instagram",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/instagram.png",
+                "hrefURL": null,
+                "themeColor": "#e1306c"
+            },
+            {
+                "displayName": "Blog",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/tistory.png",
+                "hrefURL": null,
+                "themeColor": "#f77737"
+            }
+        ]
+    },
+    {
+        "displayName": "이현승",
+        "description": "영차영차",
+        "profileImageURL": "https://wink.kookmin.ac.kr/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fprofile.3cea3de4.png&w=256&q=75",
+        "externalLinks": [
+            {
+                "displayName": "GitHub",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/github.png",
+                "hrefURL": "https://github.com/hyeonseung-lee",
+                "themeColor": "#000000"
+            },
+            {
+                "displayName": "Instagram",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/instagram.png",
+                "hrefURL": "https://www.instagram.com/hyeonseung.2/",
+                "themeColor": "#e1306c"
+            },
+            {
+                "displayName": "Blog",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/tistory.png",
+                "hrefURL": "https://theconcentrationoftime.tistory.com/",
+                "themeColor": "#f77737"
+            }
+        ]
+    },
+    {
+        "displayName": "이다은",
+        "description": "💡 지존짱멋진 개발자",
+        "profileImageURL": "https://wink.kookmin.ac.kr/_next/image?url=https%3A%2F%2Fgithub.com%2Fdan-2ee.png&w=256&q=75",
+        "externalLinks": [
+            {
+                "displayName": "GitHub",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/github.png",
+                "hrefURL": "https://github.com/dan-2ee",
+                "themeColor": "#000000"
+            },
+            {
+                "displayName": "Instagram",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/instagram.png",
+                "hrefURL": "https://www.instagram.com/__dan_n",
+                "themeColor": "#e1306c"
+            },
+            {
+                "displayName": "Blog",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/tistory.png",
+                "hrefURL": null,
+                "themeColor": "#f77737"
+            }
+        ]
+    },
+    {
+        "displayName": "조현상",
+        "description": "웹 꿈나무",
+        "profileImageURL": "https://wink.kookmin.ac.kr/_next/image?url=https%3A%2F%2Fgithub.com%2Fhyeonsang010716.png&w=256&q=75",
+        "externalLinks": [
+            {
+                "displayName": "GitHub",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/github.png",
+                "hrefURL": "https://github.com/hyeonsang010716",
+                "themeColor": "#000000"
+            },
+            {
+                "displayName": "Instagram",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/instagram.png",
+                "hrefURL": "https://instagram.com/bird_pheno?igshid=ZDdkNTZiNTM=",
+                "themeColor": "#e1306c"
+            },
+            {
+                "displayName": "Blog",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/tistory.png",
+                "hrefURL": null,
+                "themeColor": "#f77737"
+            }
+        ]
+    },
+    {
+        "displayName": "윤상원",
+        "description": "뒷방 늙은이가 된 AI 개발자",
+        "profileImageURL": "https://wink.kookmin.ac.kr/_next/image?url=https%3A%2F%2Fgithub.com%2FSangwonYoon.png&w=256&q=75",
+        "externalLinks": [
+            {
+                "displayName": "GitHub",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/github.png",
+                "hrefURL": "https://github.com/SangwonYoon",
+                "themeColor": "#000000"
+            },
+            {
+                "displayName": "Instagram",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/instagram.png",
+                "hrefURL": null,
+                "themeColor": "#e1306c"
+            },
+            {
+                "displayName": "Blog",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/tistory.png",
+                "hrefURL": null,
+                "themeColor": "#f77737"
+            }
+        ]
+    },
+    {
+        "displayName": "유승우",
+        "description": "백엔드 개발자",
+        "profileImageURL": "https://wink.kookmin.ac.kr/_next/image?url=https%3A%2F%2Fgithub.com%2FSeung-Woo-kmu.png&w=256&q=75",
+        "externalLinks": [
+            {
+                "displayName": "GitHub",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/github.png",
+                "hrefURL": "https://github.com/Seung-Woo-kmu",
+                "themeColor": "#000000"
+            },
+            {
+                "displayName": "Instagram",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/instagram.png",
+                "hrefURL": null,
+                "themeColor": "#e1306c"
+            },
+            {
+                "displayName": "Blog",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/tistory.png",
+                "hrefURL": null,
+                "themeColor": "#f77737"
+            }
+        ]
+    },
+    {
+        "displayName": "사민주",
+        "description": "Wink's Say",
+        "profileImageURL": "https://wink.kookmin.ac.kr/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fprofile.3cea3de4.png&w=256&q=75",
+        "externalLinks": [
+            {
+                "displayName": "GitHub",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/github.png",
+                "hrefURL": "https://github.com/MJspace",
+                "themeColor": "#000000"
+            },
+            {
+                "displayName": "Instagram",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/instagram.png",
+                "hrefURL": "https://www.instagram.com/say_mij",
+                "themeColor": "#e1306c"
+            },
+            {
+                "displayName": "Blog",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/tistory.png",
+                "hrefURL": null,
+                "themeColor": "#f77737"
+            }
+        ]
+    },
+    {
+        "displayName": "동승환",
+        "description": "22학번 02년생",
+        "profileImageURL": "https://wink.kookmin.ac.kr/_next/image?url=https%3A%2F%2Fgithub.com%2Fjerome132.png&w=256&q=75",
+        "externalLinks": [
+            {
+                "displayName": "GitHub",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/github.png",
+                "hrefURL": "https://github.com/jerome132",
+                "themeColor": "#000000"
+            },
+            {
+                "displayName": "Instagram",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/instagram.png",
+                "hrefURL": null,
+                "themeColor": "#e1306c"
+            },
+            {
+                "displayName": "Blog",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/tistory.png",
+                "hrefURL": null,
+                "themeColor": "#f77737"
+            }
+        ]
+    },
+    {
+        "displayName": "김호",
+        "description": "윙크의 힙함을 담당 중",
+        "profileImageURL": "https://wink.kookmin.ac.kr/_next/image?url=https%3A%2F%2Fgithub.com%2Fkimho0304.png&w=256&q=75",
+        "externalLinks": [
+            {
+                "displayName": "GitHub",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/github.png",
+                "hrefURL": "https://github.com/kimho0304",
+                "themeColor": "#000000"
+            },
+            {
+                "displayName": "Instagram",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/instagram.png",
+                "hrefURL": "https://www.instagram.com/ho_k2mo",
+                "themeColor": "#e1306c"
+            },
+            {
+                "displayName": "Blog",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/tistory.png",
+                "hrefURL": "https://blog.naver.com/mfkimho0304",
+                "themeColor": "#f77737"
+            }
+        ]
+    },
+    {
+        "displayName": "김민선",
+        "description": "윙크 지원부 대장",
+        "profileImageURL": "https://wink.kookmin.ac.kr/_next/image?url=https%3A%2F%2Fgithub.com%2FCLM-BONNY.png&w=256&q=75",
+        "externalLinks": [
+            {
+                "displayName": "GitHub",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/github.png",
+                "hrefURL": "https://github.com/CLM-BONNY",
+                "themeColor": "#000000"
+            },
+            {
+                "displayName": "Instagram",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/instagram.png",
+                "hrefURL": "https://www.instagram.com/clm_bonny/",
+                "themeColor": "#e1306c"
+            },
+            {
+                "displayName": "Blog",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/tistory.png",
+                "hrefURL": null,
+                "themeColor": "#f77737"
+            }
+        ]
+    },
+    {
+        "displayName": "양나래",
+        "description": "22학번",
+        "profileImageURL": "https://wink.kookmin.ac.kr/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fprofile.3cea3de4.png&w=256&q=75",
+        "externalLinks": [
+            {
+                "displayName": "GitHub",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/github.png",
+                "hrefURL": "https://github.com/didskfo",
+                "themeColor": "#000000"
+            },
+            {
+                "displayName": "Instagram",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/instagram.png",
+                "hrefURL": null,
+                "themeColor": "#e1306c"
+            },
+            {
+                "displayName": "Blog",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/tistory.png",
+                "hrefURL": null,
+                "themeColor": "#f77737"
+            }
+        ]
+    },
+    {
+        "displayName": "손건",
+        "description": "삶은 악전고투다",
+        "profileImageURL": "https://wink.kookmin.ac.kr/_next/image?url=https%3A%2F%2Fgithub.com%2Fjen6.png&w=256&q=75",
+        "externalLinks": [
+            {
+                "displayName": "GitHub",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/github.png",
+                "hrefURL": "https://github.com/jen6",
+                "themeColor": "#000000"
+            },
+            {
+                "displayName": "Instagram",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/instagram.png",
+                "hrefURL": "https://www.instagram.com/ijen6m",
+                "themeColor": "#e1306c"
+            },
+            {
+                "displayName": "Blog",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/tistory.png",
+                "hrefURL": "https://www.linkedin.com/in/jen6/",
+                "themeColor": "#f77737"
+            }
+        ]
+    },
+    {
+        "displayName": "유태근",
+        "description": "JDD",
+        "profileImageURL": "https://wink.kookmin.ac.kr/_next/image?url=https%3A%2F%2Fgithub.com%2FTaegeunYou.png&w=256&q=75",
+        "externalLinks": [
+            {
+                "displayName": "GitHub",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/github.png",
+                "hrefURL": "https://github.com/TaegeunYou",
+                "themeColor": "#000000"
+            },
+            {
+                "displayName": "Instagram",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/instagram.png",
+                "hrefURL": null,
+                "themeColor": "#e1306c"
+            },
+            {
+                "displayName": "Blog",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/tistory.png",
+                "hrefURL": null,
+                "themeColor": "#f77737"
+            }
+        ]
+    },
+    {
+        "displayName": "조다운",
+        "description": "22학번 말하는 감자",
+        "profileImageURL": "https://wink.kookmin.ac.kr/_next/image?url=https%3A%2F%2Fgithub.com%2Fdaun-up.png&w=256&q=75",
+        "externalLinks": [
+            {
+                "displayName": "GitHub",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/github.png",
+                "hrefURL": "https://github.com/daun-up",
+                "themeColor": "#000000"
+            },
+            {
+                "displayName": "Instagram",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/instagram.png",
+                "hrefURL": "https://www.instagram.com/daun_up",
+                "themeColor": "#e1306c"
+            },
+            {
+                "displayName": "Blog",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/tistory.png",
+                "hrefURL": null,
+                "themeColor": "#f77737"
+            }
+        ]
+    },
+    {
+        "displayName": "이보현",
+        "description": "(능력 37% 개방 중•••)",
+        "profileImageURL": "https://wink.kookmin.ac.kr/_next/image?url=https%3A%2F%2Fgithub.com%2F250b.png&w=256&q=75",
+        "externalLinks": [
+            {
+                "displayName": "GitHub",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/github.png",
+                "hrefURL": "https://github.com/250b",
+                "themeColor": "#000000"
+            },
+            {
+                "displayName": "Instagram",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/instagram.png",
+                "hrefURL": "https://www.instagram.com/250b_",
+                "themeColor": "#e1306c"
+            },
+            {
+                "displayName": "Blog",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/tistory.png",
+                "hrefURL": null,
+                "themeColor": "#f77737"
+            }
+        ]
+    },
+    {
+        "displayName": "곽희건",
+        "description": "윙크 출석부 부장",
+        "profileImageURL": "https://wink.kookmin.ac.kr/_next/image?url=https%3A%2F%2Fgithub.com%2FVarGun.png&w=256&q=75",
+        "externalLinks": [
+            {
+                "displayName": "GitHub",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/github.png",
+                "hrefURL": "https://github.com/VarGun",
+                "themeColor": "#000000"
+            },
+            {
+                "displayName": "Instagram",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/instagram.png",
+                "hrefURL": "https://www.instagram.com/h_guun",
+                "themeColor": "#e1306c"
+            },
+            {
+                "displayName": "Blog",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/tistory.png",
+                "hrefURL": null,
+                "themeColor": "#f77737"
+            }
+        ]
+    },
+    {
+        "displayName": "표상우",
+        "description": "okpyo",
+        "profileImageURL": "https://wink.kookmin.ac.kr/_next/image?url=https%3A%2F%2Fgithub.com%2Fokpyo12.png&w=256&q=75",
+        "externalLinks": [
+            {
+                "displayName": "GitHub",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/github.png",
+                "hrefURL": "https://github.com/okpyo12",
+                "themeColor": "#000000"
+            },
+            {
+                "displayName": "Instagram",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/instagram.png",
+                "hrefURL": "https://www.instagram.com/okpyo11",
+                "themeColor": "#e1306c"
+            },
+            {
+                "displayName": "Blog",
+                "iconURL": "https://raw.githubusercontent.com/KMU-WINK/2023-01-react-js-study/feature/jiwon/src/pages/WinkMembers/static/img/tistory.png",
+                "hrefURL": "https://okpyo11.tistory.com/",
+                "themeColor": "#f77737"
+            }
+        ]
+    }
+]
